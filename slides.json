@@ -1,0 +1,44 @@
+[
+  {
+    "id": "slide1",
+    "img": "https://via.placeholder.com/200x150?text=SOP+เครื่องจักร",
+    "label": "Strategy and Method ​for Maintenance Reliability​",
+    "link": "https://view.genial.ly/YOUR_ID/page/1"
+  },
+  {
+    "id": "slide2",
+    "img": "https://via.placeholder.com/200x150?text=วงจร+ไฟฟ้า",
+    "label": "Maintenance Spare part",
+    "link": "https://view.genial.ly/YOUR_ID/page/2"
+  },
+  {
+    "id": "slide3",
+    "img": "https://via.placeholder.com/200x150?text=Video+Demo",
+    "label": "Basic Maintainer (Automation and Mechanical)",
+    "link": "https://view.genial.ly/YOUR_ID/page/3"
+  },
+  {
+    "id": "slide4",
+    "img": "https://via.placeholder.com/200x150?text=Case+Study",
+    "label": "Energy and Water",
+    "link": "https://view.genial.ly/YOUR_ID/page/4"
+  }
+ {
+    "id": "slide5",
+    "img": "https://via.placeholder.com/200x150?text=Case+Study",
+    "label": "Automation Technology",
+    "link": "https://view.genial.ly/YOUR_ID/page/5"
+  }
+ {
+    "id": "slide6",
+    "img": "https://via.placeholder.com/200x150?text=Case+Study",
+    "label": "Fluid Mechanical",
+    "link": "https://view.genial.ly/YOUR_ID/page/6"
+  }
+ {
+    "id": "slide7",
+    "img": "https://via.placeholder.com/200x150?text=Case+Study",
+    "label": "Mechanical Technology ",
+    "link": "https://view.genial.ly/YOUR_ID/page/7"
+  }
+]
